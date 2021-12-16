@@ -1,1 +1,2 @@
-message: Hello new development world
+example:
+  message: Hello development world

@@ -1,1 +1,2 @@
-message: Hello production world
+example:
+  message: Hello production world
